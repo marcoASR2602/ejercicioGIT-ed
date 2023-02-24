@@ -1,2 +1,1 @@
-
-[A"TEXTO 1"
+"nuevo texto"
